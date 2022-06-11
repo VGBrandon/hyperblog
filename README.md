@@ -8,11 +8,8 @@ Es un blog donde apliqué lo aprendido en Git
 * Las buenas practicas
 * Trucos  en Git
 * Llaves publicas y privadas
-<<<<<<< HEAD
-=======
 * GitHub Pages
 * Incluye ejemplos en Windows, Linux y Mac
->>>>>>> 5310d4a (ejemplos en Windows, Linux y Mac)
 * Etc
 
 Aun falta mucho por aprender, pero cada día mas motivado.
